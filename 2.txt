@@ -1,2 +1,2 @@
-this is 2.txt
-Going to  meerged and then changed for later
+this is 2.txt for mee
+Going to  meerged and then changed for later for the merging process
